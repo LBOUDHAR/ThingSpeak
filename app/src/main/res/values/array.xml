@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="fields">
+        <item>field1</item>
+        <item>field2</item>
+        <item>field3</item>
+        <item>field4</item>
+        <item>field5</item>
+        <item>field6</item>
+        <item>field7</item>
+        <item>field8</item>
+    </string-array>
+</resources>
